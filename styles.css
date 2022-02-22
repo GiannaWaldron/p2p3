@@ -10,12 +10,17 @@ h2{
   font-size: 127%;
 }
 h3 {
-  font-size: 235%;
+  font-size: 244%;
   line-break: auto;
   position: sticky;
 }
 p {
-  font-size: 14px;
+  font-size: 20px;
+  color:rgb(192, 183, 186);
+  margin-right: 500px;
+  margin-left: 25px;
+  text-align: justify;
+  line-height: 40px;
 }
   img {
     width:50%;
